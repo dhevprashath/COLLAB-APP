@@ -79,3 +79,6 @@ Richer editing features (like formatting)
 Conclusion
 This collaborative editor serves as a foundational example of how to create real-time collaborative applications using JavaScript technologies. Developers can extend and build upon this base to create more sophisticated tools tailored to specific needs. If you have further questions or need clarification on any aspect, feel free to ask!
 
+**output page : ![Screenshot 2025-01-09 234558](https://github.com/user-attachments/assets/8305ee20-8854-48f9-a9e7-c5abd5931ec5)**
+
+
